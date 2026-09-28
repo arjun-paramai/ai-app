@@ -1,0 +1,24 @@
+SYNTHETIC PORTFOLIO FIXTURE - NOT A REAL AGREEMENT
+
+MASTER SERVICES AGREEMENT - VERSION 1
+
+1. Parties and term
+This agreement is between Northstar Analytics LLC (Provider) and Harbor Retail Inc. (Customer). The effective date is January 1, 2026. The initial term ends December 31, 2026. It renews for successive one-year terms unless either party gives written non-renewal notice at least 60 days before the current term ends.
+
+2. Services and payment
+Provider will deliver monthly sales analytics reports and maintain the reporting portal. Customer will pay $5,000 per month. Invoices are due within 30 days of receipt. Customer must provide access to source data within five business days of a reasonable request.
+
+3. Confidentiality
+Each party will protect the other party's confidential information with reasonable care and use it only to perform this agreement. These obligations survive termination for three years. Information already public without breach is excluded.
+
+4. Termination
+Either party may terminate for a material breach that remains uncured 30 days after written notice. Customer may terminate for convenience with 60 days' written notice. Fees already earned remain payable.
+
+5. Liability
+Each party's aggregate liability under this agreement is capped at the fees paid during the preceding 12 months. Neither party is liable for indirect or consequential damages. The cap does not apply to fraud.
+
+6. Data and deletion
+Customer owns its source data. Provider may process it solely to provide the services. Provider must delete Customer data within 30 days after termination and confirm deletion in writing. Provider must notify Customer of a confirmed data breach within 72 hours of discovery.
+
+7. Governing law
+This agreement is governed by the laws of Illinois. The parties will first attempt to resolve disputes through good-faith negotiation.

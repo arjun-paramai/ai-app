@@ -1,0 +1,8 @@
+[
+  {"document":"northstar-services-v1.txt","question":"How much is the monthly fee?","expected_text":"$5,000 per month"},
+  {"document":"northstar-services-v2.txt","question":"When must the customer pay an invoice?","expected_text":"15 days of receipt"},
+  {"document":"northstar-services-v1.txt","question":"What is the deadline for deleting customer data after termination?","expected_text":"within 30 days after termination"},
+  {"document":"northstar-services-v2.txt","question":"What is the liability cap for the provider?","expected_text":"preceding three months"},
+  {"document":"northstar-services-v2.txt","question":"What is the penalty for early termination?","expected_text":"three months of service fees"},
+  {"document":"northstar-services-v1.txt","question":"Which jurisdiction governs the agreement?","expected_text":"laws of Illinois"}
+]
